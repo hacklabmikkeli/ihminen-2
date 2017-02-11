@@ -1,7 +1,7 @@
 # Site settings
-title: Ihminen 2.0 hackathon ihmisille
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Ihminen 2.0 - hackathon ihmisille
+email: hallitus@mikkeli.hacklab.fi
+description: Ihminen 2.0 on hackathon uteliaille ja kokeilunhaluisille ihmisille, eli meille kaikille. Se on aloittelijaystävällinen ja rento tapahtuma, jossa tutkiskelemme ja kokeilemme teknologiaa, rakennamme yhdessä siistejä juttuja ja opimme tekemällä.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
